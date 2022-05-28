@@ -12,7 +12,7 @@ Happy Learning :)
 ## Programming Assignments
 - Course 1: Neural Networks and Deep Learning
 
-  - [W2A1 - Logistic Regression with a Neural Network mindset](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network)
+  - [W2A1 - Logistic Regression with a Neural Network mindset](https://github.com/John-CYHui/Coursera-Deep-Learning-Specialization/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network)
   - [W2A2 - Python Basics with Numpy](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week2/Python%20Basics%20with%20Numpy)
   - [W3A1 - Planar data classification with one hidden layer](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week3/Planar%20data%20classification%20with%20one%20hidden%20layer)
   - [W3A1 - Building your Deep Neural Network: Step by Step¶](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
